@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Architecting for the Enteprise"
+subject: About
 permalink: /
 ---
 
-# Architecting for the Enterprise
+<h1>{{ page.subject }}</h1>
